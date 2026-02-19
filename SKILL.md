@@ -4,7 +4,7 @@ description: Guide teams through systematic, documented experimentation when fac
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5122
+  version: 1.0.5123
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
