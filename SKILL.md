@@ -3,8 +3,9 @@ name: systematic-experimentation-framework
 description: Guide teams through systematic, documented experimentation when facing difficult technical problems using Thomas Edison's methodology.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5122
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
 - systematic-experimentation-framework
